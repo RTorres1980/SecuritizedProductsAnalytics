@@ -1,0 +1,7 @@
+scenario,market_value,pnl_vs_base,pnl_pct_of_notional,wavg_price,wavg_wal_yrs,wavg_eff_duration,wavg_cum_loss_pct
+Base,2343627465.0,0.0,0.0,94.99,5.05,3.93,1.36
+Slow prepay (PSA_50),2324400393.0,-19227071.0,-0.78,94.21,6.22,4.66,1.57
+Fast prepay (PSA_200),2370028828.0,26401358.0,1.07,96.06,3.6,2.97,1.07
+Spreads +100bp,2255316884.0,-88310580.0,-3.58,91.41,5.05,3.8,1.36
+"Credit stress (3x CDR, +15% sev)",2270540333.0,-73087132.0,-2.96,92.03,4.87,3.81,5.17
+Combined stress,2147106211.0,-196521257.0,-7.97,87.02,6.0,4.34,5.87

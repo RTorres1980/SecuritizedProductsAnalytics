@@ -1,0 +1,6 @@
+sector,Base,Slow prepay (PSA_50),Fast prepay (PSA_200),Spreads +100bp,"Credit stress (3x CDR, +15% sev)",Combined stress
+Agency MBS,0.0,-1.14,1.39,-5.5,0.0,-7.93
+ABS,0.0,-0.38,0.69,-1.68,-4.94,-7.31
+CMBS,0.0,-0.08,0.15,-3.14,-3.37,-6.44
+RMBS,0.0,-1.42,1.93,-4.67,-3.86,-10.63
+CLO,0.0,-0.58,0.85,-2.2,-3.72,-7.16
